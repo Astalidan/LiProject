@@ -9,9 +9,9 @@ As of current, we have completed the following:
   
   MUX
   
-  REGISTER
+  REGISTER //NEEDS FIXED GODDAMNIT
   
-  OP ALU
+  //OP ALU
   
   
 The following needs completed:
