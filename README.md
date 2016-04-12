@@ -11,8 +11,6 @@ As of current, we have completed the following:
   
   REGISTER //NEEDS FIXED GODDAMNIT
   
-  //OP ALU
-  
   
 The following needs completed:
 
@@ -23,4 +21,8 @@ The following needs completed:
   PC
   
   Instructional SRAM
+  
+  OP ALU
+  
+STONE HAS TO LEARN HOW TO FORMAT HIS CODE
   
