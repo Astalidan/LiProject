@@ -12,7 +12,7 @@ architecture Behavioral of tristate_buffer is
 begin
 
     -- single active low enabled tri-state buffer
-    Y <= A when (EN = '0') else 'Z';
+    Y <= A when (EN32 = '0') else 'Z';
     
     -- 32 input/output active low enabled tri-state buffer
     OUT32 <= IN32 when (EN32 = '0') else "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ";
