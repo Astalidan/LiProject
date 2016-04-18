@@ -10,11 +10,8 @@ end tristate_buffer;
 architecture Behavioral of tristate_buffer is
 
 begin
-
-    -- single active low enabled tri-state buffer
-    Y <= A when (EN32 = '0') else 'Z';
-    
     -- 32 input/output active low enabled tri-state buffer
     OUT32 <= IN32 when (EN32 = '0') else "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ";
 
 end Behavioral;
+--Failed to compile, says error with top level design is undefined
