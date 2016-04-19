@@ -9,8 +9,9 @@ As of current, we have completed the following:
   
   MUX
   
-  REGISTER //NEEDS FIXED GODDAMNIT
+  REGISTER
   
+  Program Controller
   
 The following needs completed:
 
@@ -18,11 +19,6 @@ The following needs completed:
   
   SRAM
   
-  PC
-  
   Instructional SRAM
   
   OP ALU
-  
-STONE HAS TO LEARN HOW TO FORMAT HIS CODE
-  
