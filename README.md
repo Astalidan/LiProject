@@ -13,6 +13,9 @@ As of current, we have completed the following:
   
   Program Controller
   
+  Operational ALU
+  
+  
 The following needs completed:
 
   Control Unit
@@ -20,5 +23,3 @@ The following needs completed:
   SRAM
   
   Instructional SRAM
-  
-  OP ALU
